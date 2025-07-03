@@ -17,3 +17,7 @@ Code
 
 Blame
 phone_data_10000.txt Update README with comms audit context
+PhoneNumber,EngagementType,SuspicionLevel,Notes
+0212253022,TXT+Call,High,Possible emotional partner
+0273199481,TXT+Call,Medium,Consistent replies, no alias
+0210632337,Call+PXT,Medium,Kaupapa + personal tone
